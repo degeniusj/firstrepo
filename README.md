@@ -1,4 +1,4 @@
-#INTOR
+#INTRO
 =========
 
 My first git project
